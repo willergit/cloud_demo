@@ -1,1 +1,3 @@
 hello: test
+server:
+  port: 8106
